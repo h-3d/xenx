@@ -11,6 +11,10 @@
     {
       "label": "Pico CSS",
       "value": "picocss"
+    },
+    {
+      "label": "Three.js",
+      "value": "threejs"
     }
   ],
   "default": "vanilla"

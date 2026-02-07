@@ -92,6 +92,7 @@ By default, templates are stored in `~/xenx/templates/`. Each template has its o
 templates
 ├── picocss
 ├── tailwind
+├── threejs
 ├── vanilla
 └── templates.json
 ```
@@ -126,6 +127,10 @@ Each template object has two main fields:
     {
       "label": "Pico CSS",
       "value": "picocss"
+    },
+    {
+      "label": "Three.js",
+      "value": "threejs"
     }
   ],
   "default": "vanilla"

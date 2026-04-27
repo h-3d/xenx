@@ -1,0 +1,12 @@
+{
+  "name": "xenx",
+  "module": "index.js",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "dependencies": {
+    "boune": "^0.9.0"
+  }
+}

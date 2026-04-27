@@ -1,0 +1,21 @@
+{
+  "templates": [
+    {
+      "label": "Vanilla",
+      "value": "vanilla"
+    },
+    {
+      "label": "Tailwind CSS",
+      "value": "tailwind"
+    },
+    {
+      "label": "Pico CSS",
+      "value": "picocss"
+    },
+    {
+      "label": "Three.js",
+      "value": "threejs"
+    }
+  ],
+  "default": "vanilla"
+}
